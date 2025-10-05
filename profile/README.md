@@ -7,9 +7,9 @@ Soki oza na mituna, [yebisa biso ](https://github.com/llm-paper-org/.github/issu
 
 ### Boyei bolamu na yo  
 
-❇️ Intelligence Artificielle
-⛓️ Blockchain 
-📊 Data 
-🚀 Optimisation
+❇️ Intelligence Artificielle  
+⛓️ Blockchain   
+📊 Data   
+🚀 Optimisation   
 
 E'salami na RD Congo 🇨🇩
